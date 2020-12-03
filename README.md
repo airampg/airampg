@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Airam Perez
 
 <!--
 **airampg/airampg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on my final year of university.
+
+You can reach me on [LinkedIn](https://www.linkedin.com/in/airampegui/ "LinkedIn")
