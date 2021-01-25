@@ -16,10 +16,15 @@ Here are some ideas to get you started:
 -->
 
 📚 I’m currently working on my final year of university.
+
 🌱 I’m currently learning JS.
+
 🌟 I’m currently perfecting my python and C++ (focused on OSs & Desktop as well as MCUs annd Embedded systems. 
+
 💬 Ask me about engineering, programming, energy, digital communications, EDA, research, power, etc.
+
 ⚡ Fun fact: Electric fields work in a similar way to gravity. Whereas gravity always attracts, electric fields can either attract or repulse. 🌍⚡
+
 
 📫 How to reach me:
  - [LinkedIn](https://www.linkedin.com/in/airampegui/ "LinkedIn")
