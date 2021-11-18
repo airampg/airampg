@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 
 📫 How to reach me:
- - ![LinkedIn](https://www.linkedin.com/in/airampegui/ "LinkedIn")
+ - [LinkedIn](https://www.linkedin.com/in/airampegui/ "LinkedIn")
